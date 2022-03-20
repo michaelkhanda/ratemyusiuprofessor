@@ -1,5 +1,5 @@
 # Rate My USIU Professor
 
 <br>
-# Technologies Used:
+<h2>Technologies Used:</h2>
 HTML, CSS & JavaScript
